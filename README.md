@@ -1,4 +1,6 @@
-# BACK-PROPOGATION---SINGLE-NEURON
+### EX NO:07
+### DATE:
+# <p align="center">BACK-PROPOGATION---SINGLE-NEURON- <p/>
 ## AIM:
 
 To write a python program to perform Back Propagation with Single Neuron.
@@ -28,10 +30,9 @@ Backpropagation (backward propagation) is an important mathematical tool for imp
 <br/><br/>Keep repeating the process until the desired output is achieved.
 
 ## PROGRAM:
-
 ```python
 #Program to implement random classification.
-#Developed by   : Aishree Ramesh
+#Developed by   :Aishree Ramesh
 #Register Number :  212220230003
 
 import numpy as np
